@@ -1,0 +1,11 @@
+input {
+  width: 80%;
+  padding: 8px 9px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.CreateFormContainer {
+  align-content: center;
+  text-align: center;
+}

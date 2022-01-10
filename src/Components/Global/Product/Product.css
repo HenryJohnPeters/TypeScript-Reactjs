@@ -1,0 +1,15 @@
+.ProductContainer {
+  width: 45%;
+  height: 33%;
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+  border-width: 1px;
+  border-color: black;
+  background-color: rgb(252, 252, 252);
+  border-radius: 10px;
+}
+.ProductContainer:hover {
+  background-color: cornflowerblue;
+  cursor: pointer;
+}

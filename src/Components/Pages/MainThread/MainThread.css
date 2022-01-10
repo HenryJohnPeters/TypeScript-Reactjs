@@ -1,0 +1,27 @@
+.TitleContainer {
+  text-align: center;
+  background-color: rgb(230, 230, 230);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.BackBtn {
+  position: absolute;
+  float: left;
+  background-color: rgb(231, 231, 231);
+}
+
+textarea {
+  width: 100%;
+}
+.SelectedProductContainer {
+  margin: 0 auto;
+  width: 89%;
+  margin-top: 5px;
+  text-align: center;
+  border-color: black;
+  align-self: center;
+  background-color: rgb(199, 195, 195);
+  padding: 10px;
+  border-radius: 10px;
+}
