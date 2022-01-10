@@ -1,5 +1,4 @@
 import "./CreateProduct.css";
-import IProduct from "../../../Interfaces/Product";
 import React, { useState, useEffect } from "react";
 
 export const Test: React.FC<any> = (props) => {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import io from "socket.io-client";
 import "./App.css";
-import Products from "./Components/Pages/MainThread";
+import Products from "./Components/Pages/ProuductsPage/Product/Index";
 import CreateProductPage from "./Components/Pages/CreateProductPage";
 
 //const socket = io.connect('http://localhost:4000') as any;

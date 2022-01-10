@@ -3,7 +3,7 @@ import IProduct from "../../../Interfaces/Product";
 import "../../../Interfaces/Product";
 import "./Product.css";
 {
-  /* This is Mapped out on the products page*/
+  /* This is Mapped out on the product page*/
 }
 class Product extends React.Component<IProduct> {
   state = { count: 0 };

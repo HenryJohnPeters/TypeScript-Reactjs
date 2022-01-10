@@ -1,6 +1,5 @@
 import * as React from "react";
 import "./ProductPage.css";
-import IProduct from "../../../Interfaces/Product";
 
 export const Test: React.FC<any> = (props) => {
   return (

@@ -7,7 +7,7 @@ export interface TestProps {
 }
 
 //Did not use this in the end this approach would work well with react router
-//however I decided to just go with condtional rendering as its a small project
+//I decided to just go with condtional rendering as its a small project
 class Test extends React.Component {
   state = { count: 0 };
   render() {

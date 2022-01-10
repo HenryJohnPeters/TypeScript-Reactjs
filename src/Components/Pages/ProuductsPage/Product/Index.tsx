@@ -1,7 +1,7 @@
-import "./MainThread.css";
-import DisplayProduct from "../../Global/Product";
-import IProduct from "../../../Interfaces/Product";
-import ProductPage from "../ProudctPage";
+import "./PageIndex.css";
+import DisplayProduct from "../../../Global/Product";
+import IProduct from "../../../../Interfaces/Product";
+import ProductPage from "..";
 import React, { useState } from "react";
 
 export const MainThread: React.FC<any> = (props) => {
